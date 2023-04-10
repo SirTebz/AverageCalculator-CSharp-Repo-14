@@ -1,0 +1,8 @@
+C:\Users\mokgo\Desktop\CSharp\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.exe.config
+C:\Users\mokgo\Desktop\CSharp\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.exe
+C:\Users\mokgo\Desktop\CSharp\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.pdb
+C:\Users\mokgo\Desktop\CSharp\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.csproj.AssemblyReference.cache
+C:\Users\mokgo\Desktop\CSharp\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mokgo\Desktop\CSharp\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mokgo\Desktop\CSharp\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.exe
+C:\Users\mokgo\Desktop\CSharp\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.pdb
