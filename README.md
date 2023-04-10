@@ -1,1 +1,1 @@
-# AverageCalculator-CSharp-Repo-14
+# A simple Average mark calculator C# program
